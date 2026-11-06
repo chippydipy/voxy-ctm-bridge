@@ -1,0 +1,15 @@
+{
+  "required": false,
+  "package": "dev.voxyctm.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinMesher",
+    "MixinModelBakerySubsystem",
+    "MixinModelFactory",
+    "MixinRenderDataFactory",
+    "MixinSoftwareModelTextureBakery"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
